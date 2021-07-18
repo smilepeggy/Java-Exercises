@@ -1,0 +1,12 @@
+Max, 1
+Moritz, 2
+Dana, 1
+Antonia, 3
+Helena, 2
+Franz, 6
+Dieter, 2
+Ingo, 5
+Magdalena, 2
+Lina, 4
+Felix, 3
+Sina, 1
